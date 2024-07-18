@@ -13,6 +13,5 @@ The Lazarev landing page clone is a meticulously crafted replica of the original
 1. HTML: The backbone of the page, providing the semantic structure and content organization.
 2. CSS: Used for styling, including Flexbox and Grid for layout, and custom animations for visual effects.
 3. JavaScript: Adds interactivity, handles user events, and manipulates the DOM to create a dynamic user experience.
-# Website Overflow
-![lazarev](https://github.com/user-attachments/assets/d6c67b34-f50b-4da5-9f6e-79c33c806243)
+
 
